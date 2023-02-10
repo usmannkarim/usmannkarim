@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmannkarim&show_icons=true&locale=en&layout=compact" alt="usmannkarim" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmannkarim&show_icons=true&locale=en" alt="usmannkarim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmannkarim&" alt="usmannkarim" /></p>
