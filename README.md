@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmannkarim&show_icons=true&locale=en" alt="usmannkarim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmannkarim&" alt="usmannkarim" /></p>
 
-<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=usmann.usmann&left_color=crimson&left_text=Profile Views"  /></div>
