@@ -4,7 +4,7 @@
 
 <h2 align="left">A Little About Me</h2>
 
-<p align="left">✨ Celebrating the joys of bug hunting since 2021<br>📚 A Computer Science Under-grad from UBIT.<br>🎯 Goals: MERN Stack - FULL Stack Development.<br>💡 DYK: The first computer virus, called 'Creeper,' was written in 1971 and spread through ARPANET, the predecessor to the internet.</p>
+<p align="left">✨ Celebrating the joys of bug hunting since 2021.<br>📚 A Computer Science Under-grad from UBIT.<br>🎯 Goals: MERN Stack - FULL Stack Development.<br>💡 DYK: The first computer virus, called 'Creeper,' was written in 1971 and spread through ARPANET, the predecessor to the internet.</p>
 
 <h2 align="left">I code up solutions using...🔍!</h2>
 
