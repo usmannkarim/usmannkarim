@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/usmandotkarim" target="blank"><img src="https://img.shields.io/twitter/follow/usmandotkarim?logo=twitter&style=for-the-badge" alt="usmandotkarim" /></a> </p>
 
-- 🙏 Thank you for visiting my profile and I look forward to collaborating with you on exciting projects! **usmankarim360.uk@gmail.com**
+- 🙏 Thank you for visiting my profile and I look forward to collaborating with you on exciting projects, connect with me here! **usmankarim360.uk@gmail.com**
 
 - ⚡ Fun fact **Despite being an introvert,once I gets comfortable with someone, I transforms into a wild and crazy individual with a great sense of humor.😜**
 
