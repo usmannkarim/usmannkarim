@@ -19,3 +19,62 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="MATLAB logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1 {
+        text-align: left;
+        font-size: 36px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+      
+      p {
+        text-align: left;
+        font-size: 16px;
+        margin-bottom: 20px;
+      }
+      
+      h2 {
+        text-align: left;
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+      
+      .logos {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        margin-bottom: 20px;
+      }
+      
+      .logos img {
+        height: 40px;
+        width: 52px;
+        margin-right: 10px;
+      }
+      
+      .github-stats {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+      }
+      
+      .github-stats img {
+        height: 150px;
+        margin-right: 20px;
+      }
+      
+      .center {
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 align="left">Hi, This is Muhammad Usman Karim👋!</h1>
+    <p align="left">And I'm On My Journey to Become a MERN Stack Developer -
