@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
 <div>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=usmannkarim&show_icons=true&locale=en" alt="usmannkarim" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=usmannkarim&" alt="usmannkarim" /></p> </div>
 
 
