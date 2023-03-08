@@ -1,6 +1,6 @@
 <h1 align="left">Hi, This is Muhammad Usman Karim👋!</h1>
 
-<p align="left">And I'm On My Journey to Become a MERN Stack Developer - 💻</p>
+<p align="left">And I'm On My Journey to Become a Full Stack Developer - 💻</p>
 
 <h2 align="left">A Little About Me</h2>
 
